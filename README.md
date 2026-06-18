@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- 💻 Trainee - WEG Center | Internet Technology<br>- 📚 Languages ​​- Portuguese | Fluent English | Basic Sign Language<br>- ⚡I believe that it's always the right time to learn something new!<br>- 🎓Software Engineer Student | Univille - 2/9<br><br>- 🎹 "By Him, for Him"</p>
+<p align="left">- 💻 Trainee - WEG Center | Internet Technology<br>- 📚 Languages ​​- Portuguese | Fluent English | Basic Brazilian Sign Language<br>- ⚡I believe that it's always the right time to learn something new!<br>- 🎓Software Engineer Student | Univille - 2/9<br><br>- 🎹 "By Him, for Him"</p>
 
 ###
 
