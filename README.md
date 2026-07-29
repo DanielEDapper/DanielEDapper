@@ -10,7 +10,7 @@
 ![Focus](https://img.shields.io/badge/FOCO-FULL%20STACK-6F4E37?style=flat-square&labelColor=111111)
 ![University](https://img.shields.io/badge/UNIVILLE-ENGENHARIA%20DE%20SOFTWARE-C8A96A?style=flat-square&labelColor=111111)
 ![CentroWEG](https://img.shields.io/badge/CENTROWEG-INFORMÁTICA%20PARA%20INTERNET-6F4E37?style=flat-square&labelColor=111111)
-
+<br>
 </div>
 
 ---
@@ -19,12 +19,16 @@
 
 Sou estudante de **Engenharia de Software** pela **Univille** e aluno do **CentroWEG**, onde curso **Informática para Internet**.
 
+<br>
+
 Atualmente desenvolvo aplicações **Full Stack**, utilizando principalmente **Java**, **Spring Boot**, **React** e **MySQL**, sempre buscando escrever código limpo, organizado e escalável.
+
+<br>
 
 Tenho interesse em arquitetura de software, desenvolvimento Full Stack e boas práticas de programação, buscando construir aplicações que entreguem qualidade, desempenho e uma excelente experiência ao usuário.
 
 ---
-
+<br>
 # 🚧 Atualmente desenvolvendo
 
 ## ☕ Pingado
@@ -47,7 +51,7 @@ Tenho interesse em arquitetura de software, desenvolvimento Full Stack e boas pr
 - Docker
 
 ---
-
+<br>
 # 💻 Front-end
 
 <p align="center">
@@ -55,7 +59,7 @@ Tenho interesse em arquitetura de software, desenvolvimento Full Stack e boas pr
 </p>
 
 ---
-
+<br>
 # ⚙️ Back-end
 
 <p align="center">
@@ -70,7 +74,7 @@ Tenho interesse em arquitetura de software, desenvolvimento Full Stack e boas pr
 </p>
 
 ---
-
+<br>
 # 🛠 Ferramentas
 
 <p align="center">
@@ -89,7 +93,7 @@ Tenho interesse em arquitetura de software, desenvolvimento Full Stack e boas pr
 </p>
 
 ---
-
+<br>
 # 🎓 Formação
 
 | 🎓 | |
@@ -103,7 +107,7 @@ Tenho interesse em arquitetura de software, desenvolvimento Full Stack e boas pr
 | **Localização** | Jaraguá do Sul • Santa Catarina • Brasil |
 
 ---
-
+<br>
 # 🚀 Projetos
 
 ## ☕ Pingado
@@ -136,7 +140,8 @@ Projetos acadêmicos relacionados ao curso de **Engenharia de Software**, com fo
 Coleção de atividades desenvolvidas durante a graduação, priorizando o aprendizado, a experimentação e a aplicação prática dos conteúdos estudados.
 
 ---
-
+<br>
+<br>
 # 📖 Atualmente estudando
 
 - Spring Boot
@@ -147,23 +152,25 @@ Coleção de atividades desenvolvidas durante a graduação, priorizando o apren
 - TypeScript
 
 ---
-
+<br>
 # 📫 Contato
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN">
+<a href="https://www.linkedin.com/in/daniel-erthal-dapper/">
 <img src="https://img.shields.io/badge/LinkedIn-C8A96A?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:SEUEMAIL@gmail.com">
+<a href="mailto:danielerthaldapper2008@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-6F4E37?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
 ---
-
+<br>
+<br>
+<br>
 <div align="center">
 
 
