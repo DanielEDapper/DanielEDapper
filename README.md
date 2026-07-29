@@ -1,39 +1,175 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<div align="center">
 
-###
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,50:6F4E37,100:C8A96A&height=220&section=header&text=Daniel%20Dapper&fontSize=42&fontColor=F5EFE6&fontAlignY=38&desc=Software%20Engineering%20Student&descSize=16&descAlignY=58&descColor=F5EFE6" width="100%"/>
 
-<p align="left">My name is Daniel Erthal Dapper and I'm a Software Engineer Student.</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=C8A96A&center=true&vCenter=true&width=700&lines=Software+Engineering+Student+🎓;Full+Stack+Developer+in+Progress+🚀;Building+scalable+applications+with+Java+and+React+☕;Always+learning+something+new+💡)](https://git.io/typing-svg)
 
-###
+<br>
 
-<h2 align="left">About me</h2>
+![Status](https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-C8A96A?style=flat-square&labelColor=111111)
+![Focus](https://img.shields.io/badge/FOCO-FULL%20STACK-6F4E37?style=flat-square&labelColor=111111)
+![University](https://img.shields.io/badge/UNIVILLE-ENGENHARIA%20DE%20SOFTWARE-C8A96A?style=flat-square&labelColor=111111)
+![CentroWEG](https://img.shields.io/badge/CENTROWEG-INFORMÁTICA%20PARA%20INTERNET-6F4E37?style=flat-square&labelColor=111111)
 
-###
-
-<p align="left">- 💻 Trainee - WEG Center | Internet Technology<br>- 📚 Languages ​​- Portuguese | Fluent English | Basic Brazilian Sign Language<br>- ⚡I believe that it's always the right time to learn something new!<br>- 🎓Software Engineer Student | Univille - 2/9<br><br>- 🎹 "By Him, for Him"</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
 
-###
+---
+
+# 👋 Sobre mim
+
+Sou estudante de **Engenharia de Software** pela **Univille** e aluno do **CentroWEG**, onde curso **Informática para Internet**.
+
+Atualmente desenvolvo aplicações **Full Stack**, utilizando principalmente **Java**, **Spring Boot**, **React** e **MySQL**, sempre buscando escrever código limpo, organizado e escalável.
+
+Tenho interesse em arquitetura de software, desenvolvimento Full Stack e boas práticas de programação, buscando construir aplicações que entreguem qualidade, desempenho e uma excelente experiência ao usuário.
+
+---
+
+# 🚧 Atualmente desenvolvendo
+
+## ☕ Pingado
+
+> Plataforma Full Stack para assinatura de cafés especiais.
+
+### Frontend
+
+- React
+- HTML
+- CSS
+- JavaScript
+- Tailwind CSS
+
+### Backend
+
+- Java
+- Spring Boot
+- MySQL
+- Docker
+
+---
+
+# 💻 Front-end
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,tailwind" />
+</p>
+
+---
+
+# ⚙️ Back-end
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,maven,docker" />
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/JDBC-6F4E37?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JUnit-C8A96A?style=for-the-badge&logo=junit5&logoColor=black"/>
+
+</p>
+
+---
+
+# 🛠 Ferramentas
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,figma"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Notion-111111?style=for-the-badge&logo=notion"/>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira"/>
+<img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello"/>
+<img src="https://img.shields.io/badge/Miro-FFD02F?style=for-the-badge&logo=miro&logoColor=black"/>
+
+</p>
+
+---
+
+# 🎓 Formação
+
+| 🎓 | |
+|:---:|:---|
+| **Universidade** | **Bacharelado em Engenharia de Software** |
+| | Universidade da Região de Joinville (Univille) |
+| | **2º Semestre** |
+| **CentroWEG** | **Informática para Internet** |
+| | Em andamento |
+| **Escolaridade** | Ensino Médio Completo |
+| **Localização** | Jaraguá do Sul • Santa Catarina • Brasil |
+
+---
+
+# 🚀 Projetos
+
+## ☕ Pingado
+
+Plataforma Full Stack para assinatura de cafés especiais.
+
+**Tecnologias**
+
+- React
+- Spring Boot
+- MySQL
+- Docker
+
+---
+
+## 💻 CentroWEG
+
+Projetos desenvolvidos durante a formação em **Informática para Internet**, envolvendo desenvolvimento Front-End, Back-End, banco de dados e aplicações Java.
+
+---
+
+## 🎓 Univille
+
+Projetos acadêmicos relacionados ao curso de **Engenharia de Software**, com foco em desenvolvimento Web, PWA, Programação Orientada a Objetos e Banco de Dados.
+
+---
+
+## 📚 Projetos Acadêmicos
+
+Coleção de atividades desenvolvidas durante a graduação, priorizando o aprendizado, a experimentação e a aplicação prática dos conteúdos estudados.
+
+---
+
+# 📖 Atualmente estudando
+
+- Spring Boot
+- Docker
+- Arquitetura de Software
+- Design Patterns
+- React
+- TypeScript
+
+---
+
+# 📫 Contato
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/SEU-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-C8A96A?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:SEUEMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-6F4E37?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+
+*"For from Him and through Him and for Him are all things."*  
+**Romans 11:36**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C8A96A,50:6F4E37,100:111111&height=120&section=footer"/>
+
+</div>
