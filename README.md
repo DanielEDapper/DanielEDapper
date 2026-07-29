@@ -29,6 +29,7 @@ Tenho interesse em arquitetura de software, desenvolvimento Full Stack e boas pr
 
 ---
 <br>
+
 # 🚧 Atualmente desenvolvendo
 
 ## ☕ Pingado
@@ -52,6 +53,7 @@ Tenho interesse em arquitetura de software, desenvolvimento Full Stack e boas pr
 
 ---
 <br>
+
 # 💻 Front-end
 
 <p align="center">
@@ -60,6 +62,7 @@ Tenho interesse em arquitetura de software, desenvolvimento Full Stack e boas pr
 
 ---
 <br>
+
 # ⚙️ Back-end
 
 <p align="center">
@@ -75,6 +78,7 @@ Tenho interesse em arquitetura de software, desenvolvimento Full Stack e boas pr
 
 ---
 <br>
+
 # 🛠 Ferramentas
 
 <p align="center">
@@ -94,6 +98,7 @@ Tenho interesse em arquitetura de software, desenvolvimento Full Stack e boas pr
 
 ---
 <br>
+
 # 🎓 Formação
 
 | 🎓 | |
@@ -108,6 +113,7 @@ Tenho interesse em arquitetura de software, desenvolvimento Full Stack e boas pr
 
 ---
 <br>
+
 # 🚀 Projetos
 
 ## ☕ Pingado
@@ -142,6 +148,7 @@ Coleção de atividades desenvolvidas durante a graduação, priorizando o apren
 ---
 <br>
 <br>
+
 # 📖 Atualmente estudando
 
 - Spring Boot
@@ -153,6 +160,7 @@ Coleção de atividades desenvolvidas durante a graduação, priorizando o apren
 
 ---
 <br>
+
 # 📫 Contato
 
 <div align="center">
